@@ -1,0 +1,12 @@
+.body_backgorund {
+  background-image: url("rainbow balloons.gif");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#myCanvas {
+  border-width: 10px;
+  background-color: rgb(210, 252, 254);
+  border-style: ridge;
+  border-color: rgb(44, 176, 183);
+}
